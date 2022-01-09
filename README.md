@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md.Hamid Hosen!</h1>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamidhosen42&label=Profile%20views&color=0e75b6&style=flat" alt="hamidhosen42" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mdhamidhosen1" target="blank"><img src="https://img.shields.io/twitter/follow/mdhamidhosen1?logo=twitter&style=for-the-badge" alt="mdhamidhosen1" /></a> </p>
@@ -35,9 +36,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamidhosen42)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=hamidhosen42&show_icons=true&locale=en" alt="hamidhosen42" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=hamidhosen42&show_icons=true&locale=en" alt="hamidhosen42" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hamidhosen42&" alt="hamidhosen42" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamidhosen42&" alt="hamidhosen42" /></p>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hamidhosen42)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-hamid-hosen-699a10196/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mdhamidhosen42)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/md.hamidhosen/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/MdHamidHosen1)  
