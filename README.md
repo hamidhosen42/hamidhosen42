@@ -1,4 +1,5 @@
 <h1 align="center"> Hi 👋, I'm <a href="https://www.linkedin.com/in/md-hamid-hosen-699a10196/">Md.Hamid Hosen!</a></h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamidhosen42&label=Profile%20views&color=0e75b6&style=flat" alt="hamidhosen42" /> </p>
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
