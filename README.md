@@ -1,7 +1,4 @@
-![](https://assets-global.website-files.com/5e9aa66fd3886aa2b4ec01ca/5fd3903b41d20bd2244ec3fd_programminglanguagesstickers.jpg)
 <h1 align="center"> Hi 👋, I'm <a href="https://www.linkedin.com/in/md-hamid-hosen-699a10196/">Md.Hamid Hosen!</a></h1>
-
-I am a motivated Computer Science student whose goal is to inspire billions around the world through technology.
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
