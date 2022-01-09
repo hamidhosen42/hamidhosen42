@@ -34,9 +34,18 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hamidhosen42)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamidhosen42)](https://github.com/anuraghazra/github-readme-stats)
+  <div style="display: inline">
+      [![Top
+      Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamidhosen42)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=hamidhosen42&show_icons=true&locale=en" alt="hamidhosen42" /></p>
+      <p>
+        &nbsp;<img
+          align="right"
+          src="https://github-readme-stats.vercel.app/api?username=hamidhosen42&show_icons=true&locale=en"
+          alt="hamidhosen42"
+        />
+      </p>
+    </div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamidhosen42&" alt="hamidhosen42" /></p>
 
