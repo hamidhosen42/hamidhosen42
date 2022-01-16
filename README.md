@@ -42,4 +42,4 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hamidhosen42)  
 
-![GitHub metrics](https://metrics.lecoq.io/hamidhosen42)  
+![GitHub metrics](https://metrics.lecoq.io/hamidhosen42)
