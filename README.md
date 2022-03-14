@@ -3,6 +3,7 @@
 
 <div class="row">
     <img src="https://komarev.com/ghpvc/?username=hamidhosen42&label=Profile%20views&color=0e75b6&style=flat" alt="hamidhosen42" />
+    <img src="https://komarev.com/ghpvc/?username=hamidhosen42&label=Profile%20views&color=0e75b6&style=flat" alt="hamidhosen42" />
     <a href="https://twitter.com/mdhamidhosen1" target="blank"><img src="https://img.shields.io/twitter/follow/mdhamidhosen1?logo=twitter&style=for-the-badge" alt="mdhamidhosen1" /></a>
  </div>
 
