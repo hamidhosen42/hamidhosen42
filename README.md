@@ -56,10 +56,10 @@
 <table cellspacing="0" cellpadding="0" style="border:none;">
   <tr>
     <td>
-     [![trophy](https://github-profile-trophy.vercel.app/?username=hamidhosen42)](https://github.com/ryo-ma/github-profile-trophy)
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidhosen42" alt="hamidhosen42" />
     </td>
     <td>
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamidhosen42)](https://github.com/anuraghazra/github-readme-stats)
+        <img align="center" src="https://github-profile-trophy.vercel.app/?username=hamidhosen42" alt="hamidhosen42" />
     </td>
    </tr>
 </table>
