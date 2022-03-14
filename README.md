@@ -55,6 +55,17 @@
    </tr>
 </table>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamidhosen42)](https://github.com/anuraghazra/github-readme-stats)
+<table cellspacing="0" cellpadding="0" style="border:none;">
+  <tr>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=hamidhosen42&show_icons=true&locale=en" alt="hamidhosen42" />
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamidhosen42" alt="hamidhosen42" />
+    </td>
+   </tr>
+</table>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamidhosen42)]
 
 ![GitHub metrics](https://metrics.lecoq.io/hamidhosen42)  
