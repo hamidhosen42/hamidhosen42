@@ -97,10 +97,11 @@
                         height="40" />
                 </a>
             </td>
+        </tr>
+        <tr>
             <td>
                 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-                        src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40"
-                        height="40" /> </a>
+                        src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
             </td>
             <td>
                 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
@@ -109,8 +110,8 @@
             </td>
             <td>
                 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-                        alt="java" width="40" height="40" /> </a>
+                        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
+                        width="40" height="40" /> </a>
             </td>
             <td>
                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
@@ -119,8 +120,8 @@
             </td>
             <td>
                 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img
-                        src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab"
-                        width="40" height="40" />
+                        src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40"
+                        height="40" />
                 </a>
             </td>
             <td>
@@ -138,10 +139,11 @@
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
                         alt="nodejs" width="40" height="40" /> </a>
             </td>
+        </tr>
+        <tr>
             <td>
                 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img
-                        src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40"
-                        height="40" /> </a>
+                        src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" /> </a>
             </td>
             <td>
                 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
@@ -155,18 +157,17 @@
             </td>
             <td>
                 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img
-                        src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
-                        alt="scikit_learn" width="40" height="40" /> </a>
+                        src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn"
+                        width="40" height="40" /> </a>
             </td>
             <td>
                 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img
-                        src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40"
-                        height="40" /> </a>
+                        src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" /> </a>
             </td>
             <td>
                 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img
-                        src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow"
-                        width="40" height="40" /> </a>
+                        src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40"
+                        height="40" /> </a>
             </td>
             <td>
                 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img
