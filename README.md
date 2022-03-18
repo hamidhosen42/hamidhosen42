@@ -187,7 +187,7 @@
 <table cellspacing="0" cellpadding="0" style="border:none;">
   <tr>
     <td>
-        <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Md. Hamid Hosen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hamidhosen42&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+        <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Md.Hamid Hosen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hamidhosen42&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
     </td>
     <td>
        <a href="https://git.io/streak-stats">
@@ -199,7 +199,7 @@
 <table cellspacing="0" cellpadding="0" style="border:none;">
   <tr>
     <td>
-      <img align="center" src="https://activity-graph.herokuapp.com/graph?username=hamidhosen42" alt="Hamid's github stats"/>    
+        <a href="https://github.com/md-siam/github-readme-activity-graph"><img alt="Md.Hamid Hosen's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hamidhosen42&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>  
     </td> 
    </tr>
 </table>
