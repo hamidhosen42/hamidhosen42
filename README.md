@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md.Hamid Hosen!</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Md.Hamid Hosen!</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <div class="row">
