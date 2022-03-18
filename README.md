@@ -207,7 +207,7 @@
 <table cellspacing="0" cellpadding="0" style="border:none;">
   <tr>
     <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidhosen42" alt="hamidhosen42" />
+        <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Md.Hamid Hosen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidhosen42&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
     </td>
     <td>
         <img align="center" src="https://github-profile-trophy.vercel.app/?username=hamidhosen42" alt="hamidhosen42" />
