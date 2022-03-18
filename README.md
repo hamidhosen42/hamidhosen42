@@ -201,6 +201,7 @@
 ### 📊 My Github Stats
 
 <br/>
+
 <table>
     <tr>
         <td>
@@ -211,7 +212,7 @@
         </td>
     </tr>
 </table>
-<br/>
+
 <br/>
 
 <p align="center">
