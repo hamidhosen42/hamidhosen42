@@ -187,12 +187,11 @@
 <table cellspacing="0" cellpadding="0" style="border:none;">
   <tr>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=hamidhosen42&show_icons=true&locale=en" alt="hamidhosen42" />
+        <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Md. Hamid Hosen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hamidhosen42&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
     </td>
     <td>
        <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamidhosen42&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117"/>        </a>
-<!--       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamidhosen42" alt="hamidhosen42" /> -->
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamidhosen42&theme=blackice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117"/></a>
     </td>
    </tr>
 </table>
