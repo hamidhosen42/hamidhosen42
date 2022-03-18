@@ -55,7 +55,9 @@
   </tr>
 </table>
 <!-- ------------Languages and Tools--------------- -->
+
 ## 🚀 Languages and Tools:
+
 <table cellspacing="0" cellpadding="0" style="border:none;">
         <tr>
             <td>
