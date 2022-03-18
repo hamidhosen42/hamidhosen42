@@ -7,6 +7,8 @@
      <a href="https://linkedin.com/in/md-hamid-hosen-699a10196" target="blank"><img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/muhammadtalhasultan/" alt="muhammadtalhasultan" /> </a>
  </div>
 
+## 🙋‍♂️ About Me
+
 - 🔭 I’m currently working on **Flutter App Developer**
 
 - 🌱 I’m currently learning **Web Development and Machine Learning**
