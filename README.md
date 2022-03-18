@@ -191,8 +191,8 @@
     <table align="center">
         <tr>
             <td>
-                   <a href="https://git.io/streak-stats">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamidhosen42&theme=blackice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117"/></a>
+                 <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamidhosen42&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117"/></a>
             </td>
         </tr>
    </table>
@@ -211,12 +211,19 @@
         </td>
     </tr>
 </table>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of, and doesn't reflect experience or skill level.
 <br/>
 <br/>
 
-<a href=""><img alt="Md.Hamid Hosen's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hamidhosen42&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>  
-<br/>
+<p align="center">
+    <table align="center">
+        <tr>
+            <td>
+                 <a href=""><img alt="Md.Hamid Hosen's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hamidhosen42&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>  
+            </td>
+        </tr>
+   </table>
+</p>
+
 <br/>
 
 ![GitHub metrics](https://metrics.lecoq.io/hamidhosen42)  
