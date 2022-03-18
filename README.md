@@ -185,35 +185,38 @@
     
 <!--   ----------------------------   -->
 
-<table cellspacing="0" cellpadding="0" style="border:none;">
-  <tr>
-    <td>
-        <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Md.Hamid Hosen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hamidhosen42&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    </td>
-    <td>
-       <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamidhosen42&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117"/></a>
-    </td>
-   </tr>
-</table>
+<br/>
 
-<table cellspacing="0" cellpadding="0" style="border:none;">
-  <tr>
-    <td>
-        <a href="https://github.com/md-siam/github-readme-activity-graph"><img alt="Md.Hamid Hosen's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hamidhosen42&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>  
-    </td> 
-   </tr>
-</table>
+<p align="center">
+    <table align="center">
+        <tr>
+            <td>
+                   <a href="https://git.io/streak-stats">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamidhosen42&theme=blackice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117"/></a>
+            </td>
+        </tr>
+   </table>
+</p>
 
-<table cellspacing="0" cellpadding="0" style="border:none;">
-  <tr>
-    <td>
-        <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Md.Hamid Hosen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidhosen42&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    </td>
-    <td>
-        <img align="center" src="https://github-profile-trophy.vercel.app/?username=hamidhosen42" alt="hamidhosen42" />
-    </td>
-   </tr>
+### 📊 My Github Stats
+
+<br/>
+<table>
+    <tr>
+        <td>
+            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Md.Hamid Hosen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hamidhosen42&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+        </td>
+        <td>
+            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Md.Hamid Hosen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamidhosen42&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+        </td>
+    </tr>
 </table>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of, and doesn't reflect experience or skill level.
+<br/>
+<br/>
+
+<a href=""><img alt="Md.Hamid Hosen's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hamidhosen42&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>  
+<br/>
+<br/>
 
 ![GitHub metrics](https://metrics.lecoq.io/hamidhosen42)  
