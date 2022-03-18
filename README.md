@@ -191,10 +191,11 @@
     </td>
     <td>
        <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamidhosen42&theme=blackice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117"/></a>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamidhosen42&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117"/></a>
     </td>
    </tr>
 </table>
+
 <table cellspacing="0" cellpadding="0" style="border:none;">
   <tr>
     <td>
