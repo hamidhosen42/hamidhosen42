@@ -22,7 +22,7 @@
 
 - ⚡ Fun fact **I love programming, reading and movies**
 
-<h3 align="left">Connect with me:</h3>
+### 🔗 Connect with me:
 
 <table cellspacing="0" cellpadding="0" style="border:none;">
   <tr>
