@@ -11,13 +11,13 @@
 
 ### 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Flutter App Developer**
+- 🔭 I’m currently working on **Flutter App Developer and Web Development (MERN) Stack**
 
 - 🌱 I’m currently learning **Web Development and Machine Learning**
 
-- 👯 I’m looking to collaborate on **Flutter Development**
+- 👯 I’m looking to collaborate on **Flutter and ReactJs**
 
-- 📫 How to reach me **mail**
+- 📫 How to reach me **mdhamidhosen4@gmail.com**
 
 - 😄 Pronouns: He 
 
