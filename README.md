@@ -23,7 +23,7 @@
 
 - ⚡ Fun fact **I love programming, reading and movies**
 
-### 🔗 Connect with me:
+### 🔗 Connect with me: 
 
 <table cellspacing="0" cellpadding="0" style="border:none;">
   <tr>
@@ -228,7 +228,7 @@
 
 <br/>
 
-### 🙋‍♂️ Web Development Project
+### 👩🏽‍💻 Web Development Project
 
 | PROJECT NAME | LIVE LINK | PROJECT NAME | LIVE LINK |
 | --- |  --- | --- | --- |
