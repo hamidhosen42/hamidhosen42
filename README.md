@@ -240,7 +240,7 @@
 | [React Bicycle Manufacturer MERN Stack With-Admin](https://github.com/hamidhosen42/React-Bicycle-Manufacturer-MERN-Stack-With-Admin-p) | [React Bicycle Manufacturer MERN Stack With-Admin](https://bicycle-manufacturer-client.web.app/) |
 
 
-🧠Python and Machine Learning Work and Project
+### 🧠Python and Machine Learning Work and Project
 
 | PROJECT NAME | Practice Work and Course | PROJECT NAME | Practice Work and Course |
 | --- |  --- | --- |  --- |
