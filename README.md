@@ -239,4 +239,20 @@
 | [React Fruits Warehouse With MERN Stack](https://github.com/hamidhosen42/Fruits-Warehouse-With-React-and-NodeJs-and-MongoDB-p) | [React Fruits Warehouse With MERN Stack](https://fruits-warehouse-client-site.web.app/) | [React Route Online Tutor Pro With Firebase](https://github.com/hamidhosen42/react-route-online-tutor-pro-with-firebase-p) | [React Route Online Tutor Pro With Firebase](https://react-independent-service.web.app/) |
 | [React Bicycle Manufacturer MERN Stack With-Admin](https://github.com/hamidhosen42/React-Bicycle-Manufacturer-MERN-Stack-With-Admin-p) | [React Bicycle Manufacturer MERN Stack With-Admin](https://bicycle-manufacturer-client.web.app/) |
 
+
+🧠Python and Machine Learning Work and Project
+
+| PROJECT NAME | Practice Work and Course | PROJECT NAME | Practice Work and Course |
+| --- |  --- | --- |  --- |
+| [Titanic Machine Learning From Disaster](https://github.com/hamidhosen42/Titanic-Machine-Learning-from-Disaster-Project) | [Python Beginner Code](https://github.com/hamidhosen42/Python-beginner-code) | [Machine Learning Titanic With R](https://github.com/hamidhosen42/Machine-Learning-Titanic-Project-with-R) | [ Pandas In Python](https://github.com/hamidhosen42/Pandas-in-Python) |
+| [Machine Learning Beginner Projects](https://github.com/hamidhosen42/Machine-learning-beginner-projects) | [Matplotlib In Python](https://github.com/hamidhosen42/Matplotlib-in-Python) | [ML-Spam-eMail-Detection-with-Naive-Bayes-Classifiers](https://github.com/hamidhosen42/ML-Project-Spam-eMail-Detection-with-Naive-Bayes-Classifiers) | [ NumPy In Python](https://github.com/hamidhosen42/NumPy-in-Python) |
+| [Machine-Learning-Projects](https://github.com/hamidhosen42/Machine-Learning-Projects) | [DataScience MachineLearning DeepLearning CheatSheet](https://github.com/hamidhosen42/DataScience-MachineLearning-DeepLearning-CheatSheet) | [Customer-Churn-Prediction-Project-Using-Python-Machine-Learning](https://github.com/hamidhosen42/Customer-Churn-Prediction-Project-Using-Python-Machine-Learning) | [ A Graph Machine Learning](https://github.com/hamidhosen42/A-Graph-Machine-Learning) |
+|  | [My learning Book Shunno Theke Python Machine learning Hate Kalame Scikit Learn](https://github.com/hamidhosen42/My-learning-Book-Shunno-Theke-Python-Machine-learning-Hate-Kalame-Scikit-Learn) |  | [Kaggle Python Course](https://github.com/hamidhosen42/Kaggle-Python-Course) |
+|  | [Python-OpenCv](https://github.com/hamidhosen42/Python-OpenCv) |  | [My-Machine-Learning-Tutorial-guidelines](https://github.com/hamidhosen42/My-Machine-Learning-Tutorial-guidelines) |
+|  | [Machine-Learning-Full-Course-With-Python](https://github.com/hamidhosen42/Machine-Learning-Full-Course-With-Python) |  | [Introduction-to-Machine-Learning-with-Python-A-Guide-for-Data-Scientists-by-by-Andreas-C.-M-ller-Sa](https://github.com/hamidhosen42/Introduction-to-Machine-Learning-with-Python-A-Guide-for-Data-Scientists-by-by-Andreas-C.-M-ller-Sa) |
+|  | [Shohoj-Bhashay-Python-3-by-Maksudur-Rahman-Maateen](https://github.com/hamidhosen42/Shohoj-Bhashay-Python-3-by-Maksudur-Rahman-Maateen-code) |  | [Tamim-Shahriar-Subeen-Python-Book-Code](https://github.com/hamidhosen42/Tamim-Shahriar-Subeen-Python-Book-Code) |
+|  | [Machine-Learning-with-Python-Cookbook-Practical-Solutions-from-Preprocessing-to-Deep-Learning](https://github.com/hamidhosen42/Machine-Learning-with-Python-Cookbook-Practical-Solutions-from-Preprocessing-to-Deep-Learning) |  | [Machine-learning-all-important-notes](https://github.com/hamidhosen42/Machine-learning-all-important-notes) |
+|  | [Machine-learning-Algorithm-with-Python](https://github.com/hamidhosen42/Machine-learning-Algorithm-with-Python) |  | [Basic-Machine-Learning-with-Python](https://github.com/hamidhosen42/Basic-Machine-Learning-with-Python) |
+|  | [Kaggle-Pandas-Course](https://github.com/hamidhosen42/Kaggle-Pandas-Course) |  | [Basic-Machine-Learning-with-Python](https://github.com/hamidhosen42/Basic-Machine-Learning-with-Python) |
+
 ![GitHub metrics](https://metrics.lecoq.io/hamidhosen42)  
