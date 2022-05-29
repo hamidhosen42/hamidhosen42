@@ -13,7 +13,7 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="320" />
 
 
-- 🔭 I’m currently working on **Flutter App Developer and Web Development (MERN) Stack**
+- 🔭 I’m currently working on 
 
 - 🌱 I’m currently learning **Web Development and Machine Learning**
 
