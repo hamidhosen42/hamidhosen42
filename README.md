@@ -6,14 +6,12 @@
      <a href="https://linkedin.com/in/md-hamid-hosen-699a10196" target="blank"><img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/muhammadtalhasultan/" alt="muhammadtalhasultan" /> </a>
  </div>
  
-
-### 🙋‍♂️ About Me
-
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
 
+### 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Flutter App Developer and Web Development (MERN) Stack**
+- 🔭 I’m currently working on 
 
 - 🌱 I’m currently learning **Web Development and Machine Learning**
 
