@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Md.Hamid Hosen!</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px" height="10px">, I'm Md.Hamid Hosen!</h1>
 
 <div class="row">
     <img src="https://komarev.com/ghpvc/?username=hamidhosen42&label=Profile%20views&color=0e75b6&style=flat" alt="hamidhosen42" />
