@@ -1,5 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" height="50px">, I'm Md.Hamid Hosen!</h1>
 
+<h2 align="center">I'm a MERN Stack Developer & Flutter Mobile Application Developer </h2>
+
 <div class="row">
     <img src="https://komarev.com/ghpvc/?username=hamidhosen42&label=Profile%20views&color=0e75b6&style=flat" alt="hamidhosen42" />
     <a href="https://twitter.com/mdhamidhosen1" target="blank"><img src="https://img.shields.io/twitter/follow/mdhamidhosen1?logo=twitter&style=for-the-badge" alt="mdhamidhosen1" /></a>
