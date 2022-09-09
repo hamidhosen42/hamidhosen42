@@ -229,7 +229,13 @@
 
 <br/>
 
-### 👩🏽‍💻 Web Development Project
+### 👩🏽‍💻 App Developer at Flutter App Development
+
+| PROJECT NAME | LIVE LINK | PROJECT NAME | LIVE LINK |
+| --- |  --- | --- | --- |
+| [Simple Portfolio Website](https://github.com/hamidhosen42/simple-portfolio-websites) | [Simple Portfolio Website](https://hamidhosen42.github.io/simple-portfolio-websites/) |
+
+### 👩🏽‍💻 Full Stack Web Developer (MERN)
 
 | PROJECT NAME | LIVE LINK | PROJECT NAME | LIVE LINK |
 | --- |  --- | --- | --- |
@@ -242,7 +248,7 @@
 | [React Bicycle Manufacturer MERN Stack With-Admin](https://github.com/hamidhosen42/React-Bicycle-Manufacturer-MERN-Stack-With-Admin-p) | [React Bicycle Manufacturer MERN Stack With-Admin](https://bicycle-manufacturer-client.web.app/) |
 
 
-### 🧠Python and Machine Learning Work and Project
+### 🧠Python and Machine Learning
 
 | PROJECT NAME | Practice Work and Course | PROJECT NAME | Practice Work and Course |
 | --- |  --- | --- |  --- |
