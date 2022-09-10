@@ -231,9 +231,9 @@
 
 ### 👩🏽‍💻 App Developer at Flutter App Development
 
-| PROJECT NAME | LIVE LINK | PROJECT NAME | LIVE LINK |
+| PROJECT NAME | CODE LINK | PROJECT NAME | CODE LINK |
 | --- |  --- | --- | --- |
-| [Simple Portfolio Website](https://github.com/hamidhosen42/simple-portfolio-websites) | [Simple Portfolio Website](https://hamidhosen42.github.io/simple-portfolio-websites/) |
+| Flutter UI Design | [Flutter UI Design](https://github.com/hamidhosen42/F-Flutter-UI-Design) |
 
 ### 👩🏽‍💻 Full Stack Web Developer (MERN)
 
