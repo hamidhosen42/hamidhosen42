@@ -264,7 +264,7 @@
 | [Machine-Learning-Projects](https://github.com/hamidhosen42/Machine-Learning-Projects) | [DataScience MachineLearning DeepLearning CheatSheet](https://github.com/hamidhosen42/DataScience-MachineLearning-DeepLearning-CheatSheet) | [Customer-Churn-Prediction-Project-Using-Python-Machine-Learning](https://github.com/hamidhosen42/Customer-Churn-Prediction-Project-Using-Python-Machine-Learning) | [ A Graph Machine Learning](https://github.com/hamidhosen42/A-Graph-Machine-Learning) |
 |  | [My learning Book Shunno Theke Python Machine learning Hate Kalame Scikit Learn](https://github.com/hamidhosen42/My-learning-Book-Shunno-Theke-Python-Machine-learning-Hate-Kalame-Scikit-Learn) |  | [Kaggle Python Course](https://github.com/hamidhosen42/Kaggle-Python-Course) |
 |  | [Python-OpenCv](https://github.com/hamidhosen42/Python-OpenCv) |  | [My-Machine-Learning-Tutorial-guidelines](https://github.com/hamidhosen42/My-Machine-Learning-Tutorial-guidelines) |
-|  | [Machine-Learning-Full-Course-With-Python](https://github.com/hamidhosen42/Machine-Learning-Full-Course-With-Python) |  | [Introduction-to-Machine-Learning-with-Python-A-Guide-for-Data-Scientists-by-by-Andreas-C.-M-ller-Sa](https://github.com/hamidhosen42/Introduction-to-Machine-Learning-with-Python-A-Guide-for-Data-Scientists-by-by-Andreas-C.-M-ller-Sa) |
+|  |  |  | [Introduction-to-Machine-Learning-with-Python-A-Guide-for-Data-Scientists-by-by-Andreas-C.-M-ller-Sa](https://github.com/hamidhosen42/Introduction-to-Machine-Learning-with-Python-A-Guide-for-Data-Scientists-by-by-Andreas-C.-M-ller-Sa) |
 |  |  |  |  |
 |  |  |  |  |
 |  | [Kaggle-Pandas-Course](https://github.com/hamidhosen42/Kaggle-Pandas-Course) |  |  |
