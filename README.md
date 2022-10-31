@@ -260,8 +260,8 @@
 | PROJECT NAME | Practice Work and Course | PROJECT NAME | Practice Work and Course |
 | --- |  --- | --- |  --- |
 | [Titanic Machine Learning From Disaster](https://github.com/hamidhosen42/Titanic-Machine-Learning-from-Disaster-Project) | [DataScience MachineLearning DeepLearning CheatSheet](https://github.com/hamidhosen42/DataScience-MachineLearning-DeepLearning-CheatSheet) | [Machine Learning Titanic With R](https://github.com/hamidhosen42/Machine-Learning-Titanic-Project-with-R) |  |
-|  |  |  | [ A Graph Machine Learning](https://github.com/hamidhosen42/A-Graph-Machine-Learning) |
-|  | [Python-OpenCv](https://github.com/hamidhosen42/Python-OpenCv) |  | [My learning Book Shunno Theke Python Machine learning Hate Kalame Scikit Learn](https://github.com/hamidhosen42/My-learning-Book-Shunno-Theke-Python-Machine-learning-Hate-Kalame-Scikit-Learn) |
+|  | [Python-OpenCv](https://github.com/hamidhosen42/Python-OpenCv) |  | [ A Graph Machine Learning](https://github.com/hamidhosen42/A-Graph-Machine-Learning) |
+|  |  |  | [My learning Book Shunno Theke Python Machine learning Hate Kalame Scikit Learn](https://github.com/hamidhosen42/My-learning-Book-Shunno-Theke-Python-Machine-learning-Hate-Kalame-Scikit-Learn) |
 |  | [Kaggle-Pandas-Course](https://github.com/hamidhosen42/Kaggle-Pandas-Course) |  | [Kaggle Python Course](https://github.com/hamidhosen42/Kaggle-Python-Course) |
 
 ![GitHub metrics](https://metrics.lecoq.io/hamidhosen42)  
