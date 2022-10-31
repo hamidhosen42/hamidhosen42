@@ -260,7 +260,7 @@
 | PROJECT NAME | Practice Work and Course | PROJECT NAME | Practice Work and Course |
 | --- |  --- | --- |  --- |
 | [Titanic Machine Learning From Disaster](https://github.com/hamidhosen42/Titanic-Machine-Learning-from-Disaster-Project) |  | [Machine Learning Titanic With R](https://github.com/hamidhosen42/Machine-Learning-Titanic-Project-with-R) |  |
-|  |  | [ML-Spam-eMail-Detection-with-Naive-Bayes-Classifiers](https://github.com/hamidhosen42/ML-Project-Spam-eMail-Detection-with-Naive-Bayes-Classifiers) |  |
+|  |  |  |  |
 | [Machine-Learning-Projects](https://github.com/hamidhosen42/Machine-Learning-Projects) | [DataScience MachineLearning DeepLearning CheatSheet](https://github.com/hamidhosen42/DataScience-MachineLearning-DeepLearning-CheatSheet) | [Customer-Churn-Prediction-Project-Using-Python-Machine-Learning](https://github.com/hamidhosen42/Customer-Churn-Prediction-Project-Using-Python-Machine-Learning) | [ A Graph Machine Learning](https://github.com/hamidhosen42/A-Graph-Machine-Learning) |
 |  | [My learning Book Shunno Theke Python Machine learning Hate Kalame Scikit Learn](https://github.com/hamidhosen42/My-learning-Book-Shunno-Theke-Python-Machine-learning-Hate-Kalame-Scikit-Learn) |  | [Kaggle Python Course](https://github.com/hamidhosen42/Kaggle-Python-Course) |
 |  | [Python-OpenCv](https://github.com/hamidhosen42/Python-OpenCv) |  |  |
