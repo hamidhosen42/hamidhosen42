@@ -263,7 +263,7 @@
 | [Machine Learning Beginner Projects](https://github.com/hamidhosen42/Machine-learning-beginner-projects) | [Matplotlib In Python](https://github.com/hamidhosen42/Matplotlib-in-Python) | [ML-Spam-eMail-Detection-with-Naive-Bayes-Classifiers](https://github.com/hamidhosen42/ML-Project-Spam-eMail-Detection-with-Naive-Bayes-Classifiers) | [ NumPy In Python](https://github.com/hamidhosen42/NumPy-in-Python) |
 | [Machine-Learning-Projects](https://github.com/hamidhosen42/Machine-Learning-Projects) | [DataScience MachineLearning DeepLearning CheatSheet](https://github.com/hamidhosen42/DataScience-MachineLearning-DeepLearning-CheatSheet) | [Customer-Churn-Prediction-Project-Using-Python-Machine-Learning](https://github.com/hamidhosen42/Customer-Churn-Prediction-Project-Using-Python-Machine-Learning) | [ A Graph Machine Learning](https://github.com/hamidhosen42/A-Graph-Machine-Learning) |
 |  | [My learning Book Shunno Theke Python Machine learning Hate Kalame Scikit Learn](https://github.com/hamidhosen42/My-learning-Book-Shunno-Theke-Python-Machine-learning-Hate-Kalame-Scikit-Learn) |  | [Kaggle Python Course](https://github.com/hamidhosen42/Kaggle-Python-Course) |
-|  | [Python-OpenCv](https://github.com/hamidhosen42/Python-OpenCv) |  | [My-Machine-Learning-Tutorial-guidelines](https://github.com/hamidhosen42/My-Machine-Learning-Tutorial-guidelines) |
+|  | [Python-OpenCv](https://github.com/hamidhosen42/Python-OpenCv) |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
