@@ -266,7 +266,6 @@
 |  | [Python-OpenCv](https://github.com/hamidhosen42/Python-OpenCv) |  | [My-Machine-Learning-Tutorial-guidelines](https://github.com/hamidhosen42/My-Machine-Learning-Tutorial-guidelines) |
 |  | [Machine-Learning-Full-Course-With-Python](https://github.com/hamidhosen42/Machine-Learning-Full-Course-With-Python) |  | [Introduction-to-Machine-Learning-with-Python-A-Guide-for-Data-Scientists-by-by-Andreas-C.-M-ller-Sa](https://github.com/hamidhosen42/Introduction-to-Machine-Learning-with-Python-A-Guide-for-Data-Scientists-by-by-Andreas-C.-M-ller-Sa) |
 |  | [Shohoj-Bhashay-Python-3-by-Maksudur-Rahman-Maateen](https://github.com/hamidhosen42/Shohoj-Bhashay-Python-3-by-Maksudur-Rahman-Maateen-code) |  | [Tamim-Shahriar-Subeen-Python-Book-Code](https://github.com/hamidhosen42/Tamim-Shahriar-Subeen-Python-Book-Code) |
-|  | [Machine-Learning-with-Python-Cookbook-Practical-Solutions-from-Preprocessing-to-Deep-Learning](https://github.com/hamidhosen42/Machine-Learning-with-Python-Cookbook-Practical-Solutions-from-Preprocessing-to-Deep-Learning) |  |  |
 |  |  |  |  |
 |  | [Kaggle-Pandas-Course](https://github.com/hamidhosen42/Kaggle-Pandas-Course) |  |  |
 
