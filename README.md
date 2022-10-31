@@ -268,6 +268,6 @@
 |  | [Shohoj-Bhashay-Python-3-by-Maksudur-Rahman-Maateen](https://github.com/hamidhosen42/Shohoj-Bhashay-Python-3-by-Maksudur-Rahman-Maateen-code) |  | [Tamim-Shahriar-Subeen-Python-Book-Code](https://github.com/hamidhosen42/Tamim-Shahriar-Subeen-Python-Book-Code) |
 |  | [Machine-Learning-with-Python-Cookbook-Practical-Solutions-from-Preprocessing-to-Deep-Learning](https://github.com/hamidhosen42/Machine-Learning-with-Python-Cookbook-Practical-Solutions-from-Preprocessing-to-Deep-Learning) |  | [Machine-learning-all-important-notes](https://github.com/hamidhosen42/Machine-learning-all-important-notes) |
 |  |  |  | [Basic-Machine-Learning-with-Python](https://github.com/hamidhosen42/Basic-Machine-Learning-with-Python) |
-|  | [Kaggle-Pandas-Course](https://github.com/hamidhosen42/Kaggle-Pandas-Course) |  | [Basic-Machine-Learning-with-Python](https://github.com/hamidhosen42/Basic-Machine-Learning-with-Python) |
+|  | [Kaggle-Pandas-Course](https://github.com/hamidhosen42/Kaggle-Pandas-Course) |  |  |
 
 ![GitHub metrics](https://metrics.lecoq.io/hamidhosen42)  
