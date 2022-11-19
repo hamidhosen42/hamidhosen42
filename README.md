@@ -10,7 +10,7 @@
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" /> -->
 
-### 🙋‍♂️ About Me
+## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **Flutter App Developer and Web Development (MERN) Stack**
 
@@ -44,7 +44,7 @@
 ![hosen42](https://road-to-kaggle-grandmaster.vercel.app/api/simple/hosen42 )
 
 
-### 🔗 Connect with me: 
+## 🌐 Connect with me: 
 
 <table cellspacing="0" cellpadding="0" style="border:none;">
   <tr>
@@ -79,7 +79,7 @@
 </table>
 <!-- ------------Languages and Tools--------------- -->
 
-### 🚀 Languages and Tools:
+## 💻 Languages and Tools:
 
 <table cellspacing="0" cellpadding="0" style="border:none;">
         <tr>
@@ -220,7 +220,7 @@
    </table>
 </p>
 
-### 📊 My Github Stats
+## 📊 My Github Stats
 
 <br/>
 
