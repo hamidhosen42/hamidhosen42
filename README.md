@@ -5,7 +5,7 @@
 <div class="row">
     <img src="https://img.shields.io/github/followers/hamidhosen42?label=Github%20followers&style=for-the-badge" alt="hamidhosen42" />
     <img src="https://img.shields.io/github/stars/hamidhosen42?label=Github%20stars&style=for-the-badge" alt="hamidhosen42" />
-    <img src="https://komarev.com/ghpvc/?username=hamidhosen42&label=Profile%20views&color=0e75b6&style=flat" alt="hamidhosen42" />
+    <img  src="https://komarev.com/ghpvc/?username=hamidhosen42&label=Profile Views&color=blue&style=for-the-badge" alt="hamidhosen42" />
     <a href="https://twitter.com/mdhamidhosen1" target="blank"><img src="https://img.shields.io/twitter/follow/mdhamidhosen1?logo=twitter&style=for-the-badge" alt="mdhamidhosen1" /></a>
      <a href="https://linkedin.com/in/md-hamid-hosen-699a10196" target="blank"><img src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/muhammadtalhasultan/" alt="muhammadtalhasultan" /> </a>
  </div>
