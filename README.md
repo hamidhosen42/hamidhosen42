@@ -10,7 +10,7 @@
  </div>
  
 <!-- <img align="right" alt="Coding" width="400" style={height:30px} src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
-<img align="right" style={"margin-top: 10px"} alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="300" />
+<img align="right" style="margin-top: 10px" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="300" />
 
 ## 🙋‍♂️ About Me
 
