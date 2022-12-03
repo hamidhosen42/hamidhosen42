@@ -37,7 +37,7 @@
 
 <p align="center">
 
-  <a href="https://stardev.io/developers/hamidhosen42"><img alt="Check out hamidhosen42&apos;s profile on stardev.io" src="https://stardev.io/developers/hamidhosen42/badge/languages/global.svg" /></a>
+  <a align="center" href="https://stardev.io/developers/hamidhosen42"><img alt="Check out hamidhosen42&apos;s profile on stardev.io" src="https://stardev.io/developers/hamidhosen42/badge/languages/global.svg" /></a>
  
 </p>
 
