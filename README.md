@@ -294,8 +294,8 @@
 
 ### 👩🏽‍💻 Web Based Project With Frontend + Backend
 
-| Sr No | Name                      | Frontend Link                    | Backend Link              | Live Link                        |
-| ----- | ------------------------- | -------------------------------- | ------------------------- | -------------------------------- |
-| 1     | ```EDUCATION RESPONSIVE WEBSITE``` | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/EDUCATION-RESPONSIVE-WEBSITE) | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/EDUCATION-RESPONSIVE-WEBSITE) | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/EDUCATION-RESPONSIVE-WEBSITE) |
+| Sr No | Name                      | F_Link                    | B_Link              | L_Link                        | Used Language |
+| ----- | ------------------------- | -------------------------------- | ------------------------- | ------------------------ | | ---------------------- |
+| 1     | ```EDUCATION RESPONSIVE WEBSITE``` | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/EDUCATION-RESPONSIVE-WEBSITE) | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/EDUCATION-RESPONSIVE-WEBSITE) | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/EDUCATION-RESPONSIVE-WEBSITE) | HTML,CSS & JavaScript |
 
 ![GitHub metrics](https://metrics.lecoq.io/hamidhosen42)  
