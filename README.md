@@ -288,7 +288,8 @@
 
 | Sr No | Name                      | Link                             |
 | ----- | ------------------------- | -------------------------------- |
-| 1     | Deep-Learning-with-Natural-Language-Processing               | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/Deep-Learning-with-Natural-Language-Processing) |
-| 2     | Data-Science-and-Machine-Learning-with-Python                | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/Data-Science-and-Machine-Learning-with-Python) |
+| 1     | ```Deep Learning with Natural Language Processing```               | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/Deep-Learning-with-Natural-Language-Processing) |
+| 2     | Data Science and Machine Learning with Python                | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/Data-Science-and-Machine-Learning-with-Python) |
+|3      | 
 
 ![GitHub metrics](https://metrics.lecoq.io/hamidhosen42)  
