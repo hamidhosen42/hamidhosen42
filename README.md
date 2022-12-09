@@ -289,9 +289,6 @@
 | Sr No | Name                      | Link                             |
 | ----- | ------------------------- | -------------------------------- |
 | 1     | Deep-Learning-with-Natural-Language-Processing               | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/Deep-Learning-with-Natural-Language-Processing) |
-| 2     | 125+ NLP Language Models Treasure of Transformers            | [![](https://raw.githubusercontent.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code/main/images/github.png)](https://github.com/ashishpatel26/Treasure-of-Transformers) |
-| 3     | Andrew NG ML notes                                           | [![](https://raw.githubusercontent.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code/main/images/github.png)](https://github.com/ashishpatel26/Andrew-NG-Notes) |
-| 4     | 10 Machine Learning Projects on Time Series Forecasting      | [![](https://raw.githubusercontent.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code/main/images/github.png)](https://medium.com/coders-camp/10-machine-learning-projects-on-time-seri%20es-forecasting-ee0368420ccd) |
-| 5     | 20 Deep Learning Projects Solved and Explained with Python   | [![](https://raw.githubusercontent.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code/main/images/github.png)](https://thecleverprogrammer.com/2020/11/22/deep-learning-projects-with-python/) |
+| 2     | Data-Science-and-Machine-Learning-with-Python                | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/Data-Science-and-Machine-Learning-with-Python) |
 
 ![GitHub metrics](https://metrics.lecoq.io/hamidhosen42)  
