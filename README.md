@@ -260,10 +260,9 @@
 
 ### 👩🏽‍💻 App Developer at Flutter App Development
 
-| Sr No | Name                      | Link                             |
-| ----- | ------------------------- | -------------------------------- |
-| 1     | ```*TOUR APPLICATION```                                | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/F-TOUR-APPLICATION) |
-| 2     | ```Flutter Training App With GetX```                   | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/Flutter-Training-App-With-GetX) |
+| Sr No | Name                      | Link                             | Sr No | Name                      | Link                             |
+| ----- | ------------------------- | -------------------------------- | ----- | ------------------------- | -------------------------------- |
+| 1     | ```*TOUR APPLICATION```                                | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/F-TOUR-APPLICATION) | 2         | ```Flutter Training App With GetX```                   | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/Flutter-Training-App-With-GetX) |
 | 3     | ```Flutter Tic Tac Toe Game```                         | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/Flutter-Tic-Tac-Toe-Game) |
 | 4     | ```Flutter BMI Calculator```                           | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/Flutter-BMI-Calculator) |
 | 5     | ```The Complete Flutter App Development Course```      | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/The-Complete-Flutter-App-Development-Course) |
@@ -277,6 +276,12 @@
 | 13     | ```*Flutter Widget List UI```                         | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/Flutter-Widget-List-UI) |
 | 14     | ```Flutter watch app ui design```                     | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/Flutter-watch-app-ui-design) |
 | 15     | ```*Flutter simple calculatorproject```               | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/Flutter-simple-calculator-project) |
+| 16     | ```Quran Flutter App Ui```                            | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/quran_flutter_app_ui) |
+| 17     | ```*Flutter simple calculatorproject```               | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/Flutter-simple-calculator-project) |
+| 18     | ```*Flutter simple calculatorproject```               | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/Flutter-simple-calculator-project) |
+| 19     | ```*Flutter simple calculatorproject```               | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/Flutter-simple-calculator-project) |
+| 20     | ```*Flutter simple calculatorproject```               | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/Flutter-simple-calculator-project) |
+| 21     | ```*Flutter simple calculatorproject```               | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/Flutter-simple-calculator-project) |
 
 ### 👩🏽‍💻 Full Stack Web Developer (MERN)
 
