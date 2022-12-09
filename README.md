@@ -284,13 +284,14 @@
 | [React Bicycle Manufacturer MERN Stack With-Admin](https://github.com/hamidhosen42/React-Bicycle-Manufacturer-MERN-Stack-With-Admin-p) | [React Bicycle Manufacturer MERN Stack With-Admin](https://bicycle-manufacturer-client.web.app/) |
 
 
-### 🧠Python and Machine Learning
+### 🧠Python and Machine Learning and Deep learning
 
-| PROJECT NAME | Practice Work and Course | PROJECT NAME | Practice Work and Course |
-| --- |  --- | --- |  --- |
-| [Titanic Machine Learning From Disaster](https://github.com/hamidhosen42/Titanic-Machine-Learning-from-Disaster-Project) | [DataScience MachineLearning DeepLearning CheatSheet](https://github.com/hamidhosen42/DataScience-MachineLearning-DeepLearning-CheatSheet) | [Machine Learning Titanic With R](https://github.com/hamidhosen42/Machine-Learning-Titanic-Project-with-R) |  |
-|  | [Python-OpenCv](https://github.com/hamidhosen42/Python-OpenCv) |  | [ A Graph Machine Learning](https://github.com/hamidhosen42/A-Graph-Machine-Learning) |
-|  |  |  | [My learning Book Shunno Theke Python Machine learning Hate Kalame Scikit Learn](https://github.com/hamidhosen42/My-learning-Book-Shunno-Theke-Python-Machine-learning-Hate-Kalame-Scikit-Learn) |
-|  | [Kaggle-Pandas-Course](https://github.com/hamidhosen42/Kaggle-Pandas-Course) |  | [Kaggle Python Course](https://github.com/hamidhosen42/Kaggle-Python-Course) |
+| Sr No | Name                                                         | Link                                                         |
+| ----- | ------------------------- | ------------------------------------------------------------ |
+| 1     | 365 Days Computer Vision Learning                            | [![](https://raw.githubusercontent.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code/main/images/github.png)](https://github.com/ashishpatel26/365-Days-Computer-Vision-Learning-Linkedin-Post) |
+| 2     | 125+ NLP Language Models Treasure of Transformers            | [![](https://raw.githubusercontent.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code/main/images/github.png)](https://github.com/ashishpatel26/Treasure-of-Transformers) |
+| 3     | Andrew NG ML notes                                           | [![](https://raw.githubusercontent.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code/main/images/github.png)](https://github.com/ashishpatel26/Andrew-NG-Notes) |
+| 4     | 10 Machine Learning Projects on Time Series Forecasting      | [![](https://raw.githubusercontent.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code/main/images/github.png)](https://medium.com/coders-camp/10-machine-learning-projects-on-time-seri%20es-forecasting-ee0368420ccd) |
+| 5     | 20 Deep Learning Projects Solved and Explained with Python   | [![](https://raw.githubusercontent.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code/main/images/github.png)](https://thecleverprogrammer.com/2020/11/22/deep-learning-projects-with-python/) |
 
 ![GitHub metrics](https://metrics.lecoq.io/hamidhosen42)  
