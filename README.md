@@ -290,10 +290,16 @@
 | ----- | ------------------------- | -------------------------------- |
 | 1     | ```*Deep Learning with Natural Language Processing```        | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/Deep-Learning-with-Natural-Language-Processing) |
 | 2     | ```*Data Science and Machine Learning with Python```         | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/Data-Science-and-Machine-Learning-with-Python) |
-|3      | ```Hatekolome Python Deep Learning By Rakibul-Hasan```       | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/Hatekolome-Python-Deep-Learning-By-Rakibul-Hasan) |
-|4      | ```*Cardiovascular Disease Machine Learning Project```       | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/Cardiovascular-Disease-Machine-Learning-Project) |
-|5      | ```Kaggle Pandas Course With Code```                         | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/Kaggle-Pandas-Course) |
+| 3     | ```Hatekolome Python Deep Learning By Rakibul-Hasan```       | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/Hatekolome-Python-Deep-Learning-By-Rakibul-Hasan) |
+| 4     | ```*Cardiovascular Disease Machine Learning Project```       | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/Cardiovascular-Disease-Machine-Learning-Project) |
+| 5     | ```Kaggle Pandas Course With Code```                         | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/Kaggle-Pandas-Course) |
+| 6     | ```Python Object Destructuring With OpenCv```                | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/Python-OpenCv) |
+| 7     | ```Kaggle Python Course With Code```                         | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/Kaggle-Python-Course) |
+| 8     | ```Shunno Theke Python Machine learning```                   | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/My-learning-Book-Shunno-Theke-Python-Machine-learning-Hate-Kalame-Scikit-Learn) |
+| 9     | ```*A Graph Machine Learning```                              | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/A-Graph-Machine-Learning) |
+| 10     | ```*Machine Learning Titanic Project With R```              | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/Machine-Learning-Titanic-Project-with-R) |
+| 11     | ```DataScience MachineLearning DeepLearning CheatSheet```   | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/DataScience-MachineLearning-DeepLearning-CheatSheet) |
+| 12     | ```Titanic Machine Learning from Disaster Project```        | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/Titanic-Machine-Learning-from-Disaster-Project) |
 
-|6      | ```Python Object Destructuring With OpenCv```                | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/Python-OpenCv) |
 
 ![GitHub metrics](https://metrics.lecoq.io/hamidhosen42)  
