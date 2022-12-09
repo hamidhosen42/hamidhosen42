@@ -286,6 +286,7 @@
 
 ### 🧠Python and Machine Learning and Deep learning
 
+<p align="center">
 | Sr No | Name                      | Link                             |
 | ----- | ------------------------- | -------------------------------- |
 | 1     | ```*Deep Learning with Natural Language Processing```        | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/Deep-Learning-with-Natural-Language-Processing) |
@@ -293,5 +294,6 @@
 |3      | ```Hatekolome Python Deep Learning By Rakibul-Hasan```       | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/Hatekolome-Python-Deep-Learning-By-Rakibul-Hasan) |
 |4      | ```*Cardiovascular Disease Machine Learning Project```       | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/Cardiovascular-Disease-Machine-Learning-Project) |
 |5      | ```Kaggle Pandas Course With Code```       | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/Kaggle-Pandas-Course) |
+</p>
 
 ![GitHub metrics](https://metrics.lecoq.io/hamidhosen42)  
