@@ -217,6 +217,7 @@
 <!--   ----------------------------   -->
 
 <br/>
+<br/>
 
 <p align="center">
     <table align="center">
@@ -232,6 +233,7 @@
 ## 📊 My Github Stats
 
 <br/>
+<br/>
 
 <table>
     <tr>
@@ -243,6 +245,35 @@
         </td>
     </tr>
 </table>
+
+## 📊 Github Profile Summary Card
+
+<br/>
+<br/>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamidhosen42&theme=github"/>
+</p>
+
+
+## 📊 Top Languages
+
+<br/>
+<br/>
+
+<p align="center">
+	<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hamidhosen42&theme=github" />
+	<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hamidhosen42&theme=github" />
+</p>
+
+## 📊 Top Commits
+
+<br/>
+<br/>
+
+<p align="center">
+	<img width="45%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hamidhosen42&theme=github&utcOffset=8" />
+</p>
 
 <br/>
 
