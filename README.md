@@ -252,7 +252,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamidhosen42&theme=react&hide_border=true&bg_color=0D1117"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamidhosen42&theme=github"/>
 </p>
 
 
