@@ -27,7 +27,7 @@
 - ⚡ Fun fact **I love programming, reading and movies**
 
 <p align="center">
-   <a href="https://stardev.io/developers/hamidhosen42"><img alt="Check out ssoad's profile on stardev.io" src="https://stardev.io/developers/ssoad/badge/languages/locality.svg" /></a> <br><br>
+   <a href="https://stardev.io/developers/hamidhosen42"><img alt="Check out hamidhosen42&apos;s profile on stardev.io" src="https://stardev.io/developers/hamidhosen42/badge/languages/global.svg" /></a>
 </p>
 
 
