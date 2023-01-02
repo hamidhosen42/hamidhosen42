@@ -273,7 +273,7 @@
 </p>
 
 <br/>
-https://github-readme-activity-graph.cyclic.app/graph?username=hamidhosen42&theme=merko)](https://github.com/durgesh716/github-readme-activity-graph
+
 
 <p align="center">
     <table align="center">
