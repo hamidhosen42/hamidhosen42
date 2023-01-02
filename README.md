@@ -274,8 +274,9 @@
 
 <br/>
 
-
-<p align="center">
+ [![Durgesh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hamidhosen42&theme=dark)](https://github.com/durgesh716/github-readme-activity-graph)
+ 
+<!-- <p align="center">
     <table align="center">
         <tr>
             <td>
@@ -283,7 +284,7 @@
             </td>
         </tr>
    </table>
-</p>
+</p> -->
 
 <br/>
 
