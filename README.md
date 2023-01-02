@@ -274,17 +274,16 @@
 
 <br/>
 
- [![Durgesh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hamidhosen42&theme=dark)](https://github.com/durgesh716/github-readme-activity-graph)
  
-<!-- <p align="center">
+<p align="center">
     <table align="center">
         <tr>
             <td>
-                 <a href=""><img alt="Md.Hamid Hosen's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=hamidhosen42&theme=merko)](https://github.com/durgesh716/github-readme-activity-graph" /></a>  
+                 <a href=""><img alt="Md.Hamid Hosen's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=hamidhosen42&theme=react)](https://github.com/durgesh716/github-readme-activity-graph)" /></a>  
             </td>
         </tr>
    </table>
-</p> -->
+</p>
 
 <br/>
 
