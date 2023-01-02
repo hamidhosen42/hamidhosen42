@@ -269,7 +269,7 @@
 <br/>
 
 <p align="center">
-	<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hamidhosen42&theme=github&utcOffset=8" />
+	<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hamidhosen42&theme=react&utcOffset=8" />
 </p>
 
 <br/>
@@ -279,7 +279,7 @@
     <table align="center">
         <tr>
             <td>
-                 <a href=""><img alt="Md.Hamid Hosen's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=hamidhosen42&theme=react)](https://github.com/durgesh716/github-readme-activity-graph)" /></a>  
+                 <a href=""><img alt="Md.Hamid Hosen's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=hamidhosen42&theme=react)](https://github.com/hamidhosen42/github-readme-activity-graph)" /></a>  
             </td>
         </tr>
    </table>
