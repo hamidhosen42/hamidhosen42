@@ -279,7 +279,7 @@
     <table align="center">
         <tr>
             <td>
-                 <a href=""><img alt="Md.Hamid Hosen's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=hamidhosen42&theme=react)](https://github.com/hamidhosen42/github-readme-activity-graph)" /></a>  
+                 <a href=""><img alt="Md.Hamid Hosen's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=hamidhosen42&theme=0D1117)](https://github.com/hamidhosen42/github-readme-activity-graph)" /></a>  
             </td>
         </tr>
    </table>
