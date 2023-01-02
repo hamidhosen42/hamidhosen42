@@ -273,12 +273,13 @@
 </p>
 
 <br/>
+https://github-readme-activity-graph.cyclic.app/graph?username=hamidhosen42&theme=merko)](https://github.com/durgesh716/github-readme-activity-graph
 
 <p align="center">
     <table align="center">
         <tr>
             <td>
-                 <a href=""><img alt="Md.Hamid Hosen's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hamidhosen42&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>  
+                 <a href=""><img alt="Md.Hamid Hosen's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=hamidhosen42&theme=merko)](https://github.com/durgesh716/github-readme-activity-graph" /></a>  
             </td>
         </tr>
    </table>
