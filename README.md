@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on **Flutter App Developer and Web Development (MERN) Stack**
 
-- 🌱 I’m currently learning **Web Development and Machine Learning**
+- 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
 - 👯 I’m looking to collaborate on **Flutter and ReactJs**
 
