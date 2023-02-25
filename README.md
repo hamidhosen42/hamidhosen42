@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px" height="50px">, I'm Md.Hamid Hosen!</h1>
 
-<h2 align="center">I'm a MERN Stack Developer & Flutter Mobile Application Developer </h2>
+<h2 align="center">I'm a Mobile Application Developer & Machine Learning & Deep Learning Enthusiast</h2>
 
 <div class="row">
     <img src="https://img.shields.io/github/followers/hamidhosen42?label=Github%20followers&style=for-the-badge" alt="hamidhosen42" />
@@ -14,11 +14,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Flutter App Developer and Web Development (MERN) Stack**
+- 🔭 I’m currently working on **Flutter App Developer and Machine Learning**
 
-- 🌱 I’m currently learning **Machine Learning and Deep Learning**
+- 🌱 I’m currently learning **Deep Learning and NLP**
 
-- 👯 I’m looking to collaborate on **Flutter and ReactJs**
+- 👯 I’m looking to collaborate on **Flutter and ReactJs and Machine Learning**
 
 - 📫 How to reach me **mdhamidhosen4@gmail.com**
 
