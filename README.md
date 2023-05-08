@@ -332,4 +332,12 @@
 | 9     | ```React and Firebase and Databse Notes``` | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/react-and-firebase-and-databse-notes) | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/react-and-firebase-and-databse-notes) | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/react-and-firebase-and-databse-notes) | ```React,Firbase & NodeJs``` |
 | 10    | ```React and Firebase and Databse Notes``` | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/react-and-firebase-and-databse-notes) | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/react-and-firebase-and-databse-notes) | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/react-and-firebase-and-databse-notes) | ```React,Firbase & NodeJs``` |
 
+
+### 👩🏽‍💻 Web Based Code
+
+| Sr No | Name                      | F_Link                   | B_Link                    | L_Link                   | Used Language          |
+| ----- | ------------------------- | ------------------------ | ------------------------- | ------------------------ | ---------------------- |
+| 1     | ```Next Level Web Development by Programming Hero``` | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/Next-Level-Web-Development-by-Programming-Hero) | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)]() | ```Typescript``` |
+| 2     | ```Javascript Short Note``` | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/Javascript-short-note) | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/Javascript-short-note) | [![]
+
 ![GitHub metrics](https://metrics.lecoq.io/hamidhosen42)  
