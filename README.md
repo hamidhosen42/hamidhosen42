@@ -243,7 +243,7 @@
     </tr>
 </table>
 
-## 📊 Github Profile Summary Card
+## 📊 GitHub Profile Summary Card
 
 <br/>
 <br/>
@@ -291,9 +291,11 @@
 
 | Sr No | Name                      | Link                             | Sr No | Name                      | Link                             |
 | ----- | ------------------------- | -------------------------------- | ----- | ------------------------- | -------------------------------- |
-| 1     | ```Flutter Wallpaper Wizard Application```              | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/Flutter-Wallpaper-Application) | 2         | ```Flutter-Tour-Application```                   | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/Flutter-Tour-Application) |
-| 3     | ```Flutter Tic Tac Toe Game```                         | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/Flutter-Tic-Tac-Toe-Game) | 4   | ```Flutter BMI Calculator```                           | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/Flutter-BMI-Calculator) |
-| 5     | ```The Complete Flutter App Development Course```      | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/The-Complete-Flutter-App-Development-Course) | 6     | ```*100 Days Of Flutter Widgets```                     | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/100-Days-Of-Flutter-Widgets) |
+| 1     | ```Flutter Tourism App```              | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/Flutter-Tourism-App) | 2         | ```Flutter Bhromon App```                   | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/Flutter-Bhromon-App) |
+| 3     | ```Flutter Food Delivery App```                         | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/Flutter-Food-Delivery-App) | 4   | ```FLUTTER EDUMATE APP```                           | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/FLUTTER-EDUMATE-APP) |
+| 5     | ```Flutter Wallpaper Wizard App```      | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/Flutter-Wallpaper-Wizard-App) | 6     | ```Flutter BMI Calculator App```                     | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/Flutter-BMI-Calculator-App) |
+| 7     | ```Flutter Covid-19 REST-API App```      | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/Flutter-Covid-19-REST-APi-App) | 8     | ```Flutter-Watch-Ap-UI```                     | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/Flutter-Watch-App-UI) |
+| 9     | ```Flutter Quran App```      | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/Flutter-Quran-App) | 10     | ```Flutter Calculator App```                     | [![](https://github.com/hamidhosen42/hamidhosen42/blob/main/github.png)](https://github.com/hamidhosen42/Flutter-Calculator-App) |
 
 ### 👩🏽‍💻 App Developer at Flutter App Development
 
