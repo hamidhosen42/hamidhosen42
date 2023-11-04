@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=hamidhosen42&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-🔭 I’m currently working on **Flutter App Developer and Machine Learning**<br><br>🌱 I’m currently learning **Deep Learning and NLP**<br><br>👯 I’m looking to collaborate on **Flutter and ReactJs and Machine Learning**<br><br>📫 How to reach me **mdhamidhosen4@gmail.com**<br><br>😄 Pronouns: He <br><br>⚡ Fun fact **I love programming, reading and movies**<be>
+🔭 I’m currently working on **Flutter App Developer and Machine Learning**<br>🌱 I’m currently learning **Deep Learning and NLP**<br>👯 I’m looking to collaborate on **Flutter and ReactJs and Machine Learning**<br>📫 How to reach me **mdhamidhosen4@gmail.com**<br> Fun fact **I love programming, reading and movies**<be>
 
 <p align="center">
    <a href="https://stardev.io/developers/hamidhosen42"><img alt="Check out hamidhosen42&apos;s profile on stardev.io" src="https://stardev.io/developers/hamidhosen42/badge/languages/global.svg" /></a>
