@@ -1,5 +1,30 @@
+[![](https://visitcount.itsvg.in/api?id=hamidhosen42&icon=0&color=0)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
-🔭 I’m currently working on **Flutter App Developer and Machine Learning**<br><br>🌱 I’m currently learning **Deep Learning and NLP**<br><br>👯 I’m looking to collaborate on **Flutter and ReactJs and Machine Learning**<br><br>📫 How to reach me **mdhamidhosen4@gmail.com**<br><br>😄 Pronouns: He <br><br>⚡ Fun fact **I love programming, reading and movies**<br>
+🔭 I’m currently working on **Flutter App Developer and Machine Learning**<br><br>🌱 I’m currently learning **Deep Learning and NLP**<br><br>👯 I’m looking to collaborate on **Flutter and ReactJs and Machine Learning**<br><br>📫 How to reach me **mdhamidhosen4@gmail.com**<br><br>😄 Pronouns: He <br><br>⚡ Fun fact **I love programming, reading and movies**<be>
+
+<p align="center">
+   <a href="https://stardev.io/developers/hamidhosen42"><img alt="Check out hamidhosen42&apos;s profile on stardev.io" src="https://stardev.io/developers/hamidhosen42/badge/languages/global.svg" /></a>
+</p>
+
+
+<p align="center">
+
+  <br/>
+  <p align="center">🥇My Kaggle Tier & Medals 🥇</p>
+ 
+</p>
+
+</p>
+<p align="center">
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/hosen42/competition/dark" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/hosen42/dataset/dark" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/hosen42/notebook/dark" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/hosen42/discussion/dark" />
+</p>
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhosen42%2Fkaggle-badge&count_bg=%23DDAA17&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+![hosen42](https://road-to-kaggle-grandmaster.vercel.app/api/simple/hosen42 )
 
 
 ## 🌐 Socials:
@@ -21,7 +46,5 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=hamidhosen42&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=hamidhosen42&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
