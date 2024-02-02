@@ -17,10 +17,10 @@
 
 </p>
 <p align="center">
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/hosen42/competition/dark" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/hosen42/dataset/dark" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/hosen42/notebook/dark" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/hosen42/discussion/dark" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/hosen42/competition/light" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/hosen42/dataset/light" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/hosen42/notebook/light" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/hosen42/discussion/light" />
 </p>
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhosen42%2Fkaggle-badge&count_bg=%23DDAA17&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
