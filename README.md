@@ -41,6 +41,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hamidhosen42&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamidhosen42&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+[![## 🏆 willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hamidhosen42)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hamidhosen42&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
