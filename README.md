@@ -1,5 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=hamidhosen42&icon=0&color=0)](https://visitcount.itsvg.in)
-![LinkedIn Banner](https://github.com/user-attachments/assets/e3771edf-aace-4818-81c3-2bcc2b95ba26)
+![LinkedIn Banner](https://github.com/user-attachments/assets/7dca462f-1824-4ba4-bad2-178c5e7ef8a9)
+
 
 
 # 💫 About Me:
