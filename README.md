@@ -1,5 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=hamidhosen42&icon=0&color=0)](https://visitcount.itsvg.in)
-![Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner](https://github.com/hamidhosen42/hamidhosen42/assets/68488154/97b5c9e8-09d9-471d-9bd2-6391c794e138)
+![LinkedIn Banner](https://github.com/user-attachments/assets/e3771edf-aace-4818-81c3-2bcc2b95ba26)
+
 
 # 💫 About Me:
 🔭 I’m currently working on **Flutter App Developer and Machine Learning**<br>🌱 I’m currently learning **Deep Learning and NLP**<br>👯 I’m looking to collaborate on **Flutter and ReactJs and Machine Learning**<br>📫 How to reach me **mdhamidhosen4@gmail.com**<br> Fun fact **I love programming, reading and movies**<be>
