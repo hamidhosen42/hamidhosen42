@@ -4,7 +4,20 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on **Flutter App Developer and Machine Learning**<br>🌱 I’m currently learning **Deep Learning and NLP**<br>👯 I’m looking to collaborate on **Flutter and ReactJs and Machine Learning**<br>📫 How to reach me **mdhamidhosen4@gmail.com**<br> Fun fact **I love programming, reading and movies**<be>
+🔭 Currently Working On:
+I’m focused on developing robust and scalable applications using Flutter for cross-platform mobile development and Kotlin Jetpack Compose for native Android apps.
+
+🌱 Currently Learning:
+Exploring the fascinating world of SwiftUI for iOS development. Diving deep into Deep Learning and Natural Language Processing (NLP) to enhance my skills in AI and machine learning.
+
+👯 Looking to Collaborate On:
+I’m eager to team up with like-minded developers and researchers to work on innovative projects in Flutter, ReactJS, and Machine Learning.
+
+📫 How to Reach Me:
+Feel free to contact me via email at mdhamidhosen4@gmail.com.
+
+✨ Fun Fact:
+Programming, reading thought-provoking books, and watching engaging movies are some of my greatest passions. I thrive on learning and creativity
 
 <p align="center">
    <a href="https://stardev.io/developers/hamidhosen42"><img alt="Check out hamidhosen42&apos;s profile on stardev.io" src="https://stardev.io/developers/hamidhosen42/badge/languages/global.svg" /></a>
