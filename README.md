@@ -58,9 +58,6 @@ Programming, reading thought-provoking books, and watching engaging movies are s
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hamidhosen42)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hamidhosen42&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
