@@ -1,11 +1,23 @@
-[![](https://visitcount.itsvg.in/api?id=hamidhosen42&icon=0&color=0)](https://visitcount.itsvg.in)
-![LinkedIn Banner](https://github.com/user-attachments/assets/7dca462f-1824-4ba4-bad2-178c5e7ef8a9)
+Hi there 👋  
+I am **Md. Hamid Hosen**, currently working as a **Software Engineer (Mobile)** at **Project 2morrow Software Ltd.**  
+In my professional role, I focus on developing **scalable mobile applications** using Flutter, Kotlin, and Swift for both Android and iOS platforms. I’m also exploring how **AI and LLMs** can enhance mobile intelligence and usability.
 
+My interests extend to the research and application of **Large Language Models**, **Multimodal AI**, and **Explainable AI (XAI)**. I enjoy blending cutting-edge research with practical development to solve real-world problems. I completed my B.Sc. in Computer Science and Engineering from **East Delta University**, Chittagong, Bangladesh.
 
+---
 
-# 💫 About Me:
-🔭 I’m currently working on<br>Developing scalable cross-platform apps using Flutter and Jetpack Compose. Also exploring performance optimization in mobile apps.<br><br>👯 I’m looking to collaborate on<br>Projects involving Flutter, ReactJS, or Machine Learning — especially those that push creative or technical boundaries.<br><br>🤝 I’m looking for help with<br>Advancing my skills in SwiftUI and applying NLP techniques in real-world apps.<br><br>🌱 I’m currently learning<br>SwiftUI for iOS, Deep Learning, and Natural Language Processing to expand my AI expertise.<br><br>💬 Ask me about<br>Mobile development, Flutter best practices, Kotlin Jetpack Compose, or how to kickstart in AI/ML as a mobile dev.<br><br>⚡ Fun fact<br>I’m equally passionate about coding, reading impactful books, and diving into thought-provoking movies.
+## Primary Interests & Research Focus 🎯
 
+I am actively engaged in the following domains:
+
+- ✨ *Mobile Application Development* (Flutter, Jetpack Compose, SwiftUI)  
+- ✨ *Large Language Models (LLMs)*  
+- ✨ *Multimodal AI & Fusion (text, vision, audio)*  
+- ✨ *Explainable AI (XAI)*  
+- ✨ *AI in Mobile Health & Diagnostics*  
+- ✨ *NLP for Mobile Interaction*  
+- ✨ *Vision-Based UI Understanding*  
+- ✨ *Performance Optimization in Mobile Apps*
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/hamid42) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mdhamidhosen42) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/md.hamidhosen) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-hamid-hosen) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@hamid42) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mdhamidhosen1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@hamidhosen128) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Md.Hamid Hosen) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdhamidhosen4@gmail.com) 
