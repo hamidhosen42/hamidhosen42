@@ -1,44 +1,230 @@
-# Hi there 👋
-
-I am **Md. Hamid Hosen**, currently working as a **Software Engineer (Mobile)** at **Project 2morrow Software Ltd**.  
-In my role, I develop scalable cross-platform applications using Flutter, Jetpack Compose, Kotlin, and Swift.  
-I'm also exploring the intersection of **Mobile Development** and **AI**, including **LLMs**, **XAI**, and **Multimodal AI**.  
-I hold a B.Sc. in Computer Science & Engineering from **East Delta University**, Bangladesh.
-
----
-
-## 🔬 Primary Research Interests
-
-- Large Language Models (LLMs)  
-- Multimodal AI & Fusion  
-- Mobile Health & Explainable AI (XAI)  
-- NLP for Mobile Interaction  
-- Vision-based UI Understanding  
-- AI-powered Mobile Applications  
-
----
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/hamid42) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mdhamidhosen42) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/md.hamidhosen) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-hamid-hosen) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@hamid42) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mdhamidhosen1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@hamidhosen128) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Md.Hamid Hosen) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdhamidhosen4@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-
-## Github Stats 📊
 <div align="center">
-    
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hamidhosen42&theme=aura)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hamidhosen42&theme=dracula&utcOffset=8)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hamidhosen42&theme=apprentice)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hamidhosen42&theme=apprentice)
+# Hi there, I'm Md. Hamid Hosen 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hamidhosen42&theme=dracula&card_width=700)](https://git.io/streak-stats)
+### Software Engineer (Mobile) | Lead Researcher | AI Researcher
+
+[![Website](https://img.shields.io/badge/Portfolio-hamidhosen.com-0A66C2?style=flat-square&logo=google-chrome&logoColor=white)](https://www.hamidhosen.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Md.%20Hamid%20Hosen-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-hamid-hosen)
+[![Kaggle](https://img.shields.io/badge/Kaggle-hosen42-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/hosen42)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-mdhamidhosen-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/mdhamidhosen)
+[![Email](https://img.shields.io/badge/Email-mdhamidhosen4%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mdhamidhosen4@gmail.com)
 
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hamidhosen42&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+I am **Md. Hamid Hosen**, a **Software Engineer (Mobile)** at  
+**Project 2morrow Software Ltd. (P2M)** and a **Lead Researcher** at  
+**ELITE Research Lab LLC**.
+
+I specialize in building scalable, reliable, and high-performance mobile
+applications using **Flutter**, **Kotlin**, **Jetpack Compose**, and modern
+mobile architecture patterns.
+
+Alongside software engineering, I conduct research in **Large Language Models
+(LLMs)**, **Mathematical Reasoning**, **Computer Vision**, **Multimodal AI**,
+**Explainable AI**, and **Natural Language Processing**.
+
+My work focuses on connecting advanced AI research with practical,
+production-ready systems.
+
+- 🎓 B.Sc. in Computer Science and Engineering  
+- 🏫 East Delta University, Bangladesh
+- 💼 Software Engineer (Mobile) at P2M Software Ltd.
+- 🔬 Lead Researcher at ELITE Research Lab LLC
+- 🌍 Interested in international M.Sc. and Ph.D. research opportunities
+- 🤝 Open to research collaborations and open-source AI projects
+
+---
+
+## 🏆 International Achievements
+
+### 🏆 AIMO Proof Pilot — Prize Winner
+
+Recognized as a **Prize Winner** in the **AI Mathematical Olympiad (AIMO)
+Proof Pilot**, an invitation-only research evaluation hosted on Kaggle.
+
+- One of only **seven invited teams worldwide**
+- Worked with fully open-source Large Language Models
+- Developed mathematical reasoning and proof-generation workflows
+- Conducted inference optimization and reproducible evaluation
+- Prepared containerized deployment and technical research reports
+
+### 🥇 AIMO Progress Prize 3 — Gold Medalist
+
+Earned a **Gold Medal** in the **AI Mathematical Olympiad Progress Prize 3**.
+
+- **Global Rank:** 14th
+- **Overall Score:** 43.5
+- Competed among **4,138 teams worldwide**
+
+### 🏆 Hardest Problem Prize Winner
+
+Received the **Hardest Problem Prize** for being the only contestant among
+4,138 teams to solve the highly resistant mathematical problem internally
+referred to as **“ACUTES”** in both evaluation attempts.
+
+---
+
+## 🔬 Research Interests
+
+- 🧠 Large Language Models
+- ➗ Mathematical Reasoning
+- 🔀 Multimodal AI and Multimodal Fusion
+- 👁️ Computer Vision
+- 🔍 Explainable and Trustworthy AI
+- 💬 Natural Language Processing
+- 📱 AI-powered Mobile Applications
+- 🩺 Mobile Health and Medical AI
+- 🎨 Vision-based UI Understanding
+- ⚙️ Reproducible AI Evaluation and Inference Optimization
+
+---
+
+## 💼 Current Roles
+
+### Software Engineer (Mobile)
+
+**Project 2morrow Software Ltd. — P2M**
+
+- Building scalable cross-platform applications with Flutter
+- Developing native Android applications using Kotlin and Jetpack Compose
+- Integrating REST APIs, Firebase, authentication, and real-time services
+- Designing responsive applications for phones and tablets
+- Applying maintainable architecture and state-management patterns
+
+### Lead Researcher
+
+**ELITE Research Lab LLC — Remote, Queens, New York**
+
+- Leading research in LLMs, NLP, Computer Vision, and Multimodal AI
+- Designing model evaluation and benchmarking pipelines
+- Conducting research experimentation and performance analysis
+- Supervising research workflows and supporting collaborators
+- Contributing to publications, reports, and open-source AI systems
+
+---
+
+## 🛠️ Technical Skills
+
+### Mobile Development
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+### Artificial Intelligence and Data Science
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge&logo=plotly&logoColor=black)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### Backend, Database and Cloud
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+### Tools and Platforms
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamidhosen42&theme=aura"
+  width="95%"
+  alt="GitHub Profile Details"
+/>
+
+<br/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hamidhosen42&theme=aura"
+  width="47%"
+  alt="GitHub Statistics"
+/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hamidhosen42&theme=aura&utcOffset=6"
+  width="47%"
+  alt="Productive Time"
+/>
+
+<br/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hamidhosen42&theme=aura"
+  width="47%"
+  alt="Repositories Per Language"
+/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hamidhosen42&theme=aura"
+  width="47%"
+  alt="Most Used Commit Language"
+/>
+
+<br/>
+
+<img
+  src="https://streak-stats.demolab.com?user=hamidhosen42&theme=dracula&hide_border=true"
+  width="75%"
+  alt="GitHub Contribution Streak"
+/>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.hamidhosen.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-hamid-hosen)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/hosen42)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/mdhamidhosen)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/mdhamidhosen42)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/md.hamidhosen)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mdhamidhosen1)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@hamidhosen128)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdhamidhosen4@gmail.com)
+
+---
+
+<div align="center">
+
+### 💡 Building intelligent mobile systems and advancing open-source AI research.
+
+[![Profile Views](https://visitcount.itsvg.in/api?id=hamidhosen42&icon=5&color=6)](https://visitcount.itsvg.in)
+
+</div>
